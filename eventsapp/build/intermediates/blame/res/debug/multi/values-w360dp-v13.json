@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\M.FAHAD\\Desktop\\Fahad_android\\Projects\\LinkedInLogin\\eventsapp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\M.FAHAD\\.android\\build-cache\\cc2c4a6d465be1f9869f42e0ccd3db98ded3bd82\\output\\res\\values-w360dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 54,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]
